@@ -22,8 +22,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/moonzn/frontendmentor-qr-code-component)
-- Live Site URL: [Add live site URL here](https://moonzn.github.io/frontendmentor-qr-code-component/)
+- Solution URL: [Repository](https://github.com/moonzn/frontendmentor-qr-code-component)
+- Live Site URL: [Github Pages](https://moonzn.github.io/frontendmentor-qr-code-component/)
 
 ## My process
 
@@ -53,8 +53,8 @@ I also think I should build the HTML first and then add style with CSS.
 
 ### Useful resources
 
-- [Example resource 1](https://www.w3schools.com/) - For CSS examples.
+- [W3Schools](https://www.w3schools.com/) - For CSS examples.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/moonzn)
+- Frontend Mentor - [@moonzn](https://www.frontendmentor.io/profile/moonzn)
